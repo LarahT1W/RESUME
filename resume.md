@@ -5,34 +5,37 @@
 + Location：下城区，杭州，浙江
 
 ---
-+ **摘要**
++ **Summary**
 
-我是一名刚毕业转行数据分析的食品科学研究生。 在导师团队我做了大量的实验，处理了大量的实验数据。我发现使用spss处理数据非常低效繁琐，所以到网上寻找更好的方法。在见识了python和R处理在处理数据时的强大功能之后，我仿佛打开了新世界的大门，我决定做数据分析师。
+I am a graduate student of food science who find his true passion in data science. As a member of my mentor's  research team, I have  handled tons of data. I found it very tedious to analysis data with SPSS, So I want to find better way to do so. After the sense of what python and R can do with data, I said this is what I am going to do. I start teaching myself programming and  statistics.
 
-现在,我从Udacity纳米学完毕业了，我可以熟练的使用python和R处理分析数据，使用机器学习找到数据中的规律，并将数据可视化。
+Now, I finally graduated from Udacity's Data Analyst Nanodegree.
+I can expertly  clean manipulate  data  with python, R and SQL, find
+Pattern in data with machine learning, and visualizing data with d3.js.
 
 
-+ **技能：**
- - 语言： python,R,Javascript,HTML5,CSS3,
- - 库：NumPy,Pandas,Matplotlib,scikit-learn,d3.js,dimple.js, ggplot2
- - 其它：git/github,SQL,MongoDB
++ **Technical Skills：**
+
+ - Languages: python,R,Javascript,HTML5,CSS3,
+ - Frameworks/Libraries: NumPy,Pandas,Matplotlib,scikit-learn,d3.js,dimple.js, ggplot2
+ - Other: git/github,SQL,MongoDB
 
 ---
-### 项目经验
+### Projects
 https://github.com/ShawnXiha/Udacity_Data_Analiyst_Nanodegree
 
-1.	**调查数据集**
- - 使用Pandas整理清洗数据集
- - 使用Matplotlib作图分析数据分布规律，及变量间关系
- - 使用scipy分析各因素对结果影响的显著性
+1.	**Investigate a Dataset**
+ - Investigate, analysis and find problems in a dataset using NumPy and Pandas
+ - Plot data with Matplotlib and find relationship between features
+ - Analysis significance scipy
 
-2.	**探索并总结数据**
- - 使用ggplot2数据可视化对数据进行单变量，双变量，多变量分析
+2.	**Explore and Summarize Data**
+ - Use R and apply exploratory data analysis techniques to explore  data set for distributions, outliers, and anomalies.
  - 使用GGally探索变量之间的相关性
 
 3.	**从安然的邮件中识别舞弊**
- - 发现并移除数据集中的离群值，异常值
- - 使用主成分分析及特征选择对机器学习的数据进行预处理
+ - analyze, clean and get data ready for machine learning
+ -
  - 选取性能度量，采用交叉验证选择最优的机器学习算法并调节参数
 
 4.	**处理 OpenStreetMap 数据**
